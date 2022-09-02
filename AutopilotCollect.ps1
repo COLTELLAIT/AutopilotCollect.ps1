@@ -1,5 +1,5 @@
 ﻿# Set variables. Best to use a temporary SMTP account and password to prevent abuse after use of script is complete.
-# Designed to be deployed via Intune to get Autopilot hash to re-import.
+# Designed to be deployed via Intune to obtain Autopilot hash to re-import.
 
 $FolderName = "C:\Autopilot\"
 $email = "email@domain.com"
